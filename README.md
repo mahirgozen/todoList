@@ -11,7 +11,7 @@ Cette application vous permet de gérer une liste de tâches à faire. Vous pouv
 - Afficher la liste complète des tâches.
 
 ## Utilisation
-1. Exécutez le fichier `todo_list_app.py` avec Python.
+1. Exécutez le fichier `tasks.py` avec Python.
 2. Une fenêtre de l'application s'ouvrira.
 3. Utilisez les boutons pour ajouter, supprimer ou afficher les tâches.
 4. Vous pouvez également quitter l'application en cliquant sur le bouton "Quitter".
